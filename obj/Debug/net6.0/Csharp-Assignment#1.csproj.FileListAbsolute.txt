@@ -1,0 +1,15 @@
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\bin\Debug\net6.0\Csharp-Assignment#1.exe
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\bin\Debug\net6.0\Csharp-Assignment#1.deps.json
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\bin\Debug\net6.0\Csharp-Assignment#1.runtimeconfig.json
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\bin\Debug\net6.0\Csharp-Assignment#1.dll
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\bin\Debug\net6.0\Csharp-Assignment#1.pdb
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.csproj.AssemblyReference.cache
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.AssemblyInfoInputs.cache
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.AssemblyInfo.cs
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.csproj.CoreCompileInputs.cache
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.dll
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\refint\Csharp-Assignment#1.dll
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.pdb
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\Csharp-Assignment#1.genruntimeconfig.cache
+C:\Users\12898\Desktop\HArins “Csharp-Assignment#1”\Csharp-Assignment#1\obj\Debug\net6.0\ref\Csharp-Assignment#1.dll
